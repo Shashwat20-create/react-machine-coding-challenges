@@ -1,0 +1,11 @@
+.accordion {
+  border: 2px solid black;
+  margin: 4px;
+  padding: 4px;
+  position: relative;
+}
+span {
+  position: absolute;
+  right: 0.5rem;
+  cursor: pointer;
+}
