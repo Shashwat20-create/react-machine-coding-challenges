@@ -1,0 +1,8 @@
+.modal-component {
+  position: fixed;
+  border: 1px solid black;
+  padding: 8px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
